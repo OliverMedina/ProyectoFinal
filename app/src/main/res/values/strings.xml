@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="camaro2024">Camaro 2024 zl1</string>
+    <string name="camaro2010">Camaro 2010</string>
+    <string name="camaro1969">Camaro 1969</string>
+    <string name="mustang2024">Mustang 2024</string>
+    <string name="mustang2010">Mustang 2010</string>
+    <string name="mustang1969">Mustang 1969</string>
+</resources>
